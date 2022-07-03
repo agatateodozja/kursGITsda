@@ -1,4 +1,4 @@
 plik typu A testowanie funkcjonalnosci
 zmiana ktora powoduje konflikt
 more text
-Wow:
+Wow: naprawa bledu
